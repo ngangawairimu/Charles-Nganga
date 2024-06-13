@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Charles Nganga
-- 👀 I’m interested in big data analysis,regression, modeling,machine learning 
-- 🌱 I’m currently learning Machine learning
+- 👀 I am a dedicated learner with a keen interest in data analysis and machine learning
+- 🌱 Currently, I’m on the path to mastering data science
 - 💞️ Fun fact I'm royal
 - 📫 How to reach me Email:charlesnganga06@gmail.com
 <!---
